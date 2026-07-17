@@ -1,0 +1,1 @@
+# kimi-work-mcp-setup
